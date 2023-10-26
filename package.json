@@ -5,7 +5,7 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export",
+    "export": "slidev export --per-slide --format pdf",
     "pdf": "slidev export --per-slide --format pdf",
     "png": "slidev export --per-slide --format png",
     "md": "slidev export --per-slide --format md",

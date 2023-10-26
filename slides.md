@@ -65,7 +65,7 @@ hideInToc: true
     style="flex: 1; padding-right: 20px"
   >
     <a
-      href="<https://ahandsel.github.io/kintone-for-hackathon/>"
+      href="https://kintone-workshops.github.io/kintone-for-hackathon-slides/"
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >
@@ -74,7 +74,7 @@ hideInToc: true
   </div>
   <div>
     <a
-      href="https://ahandsel.github.io/kintone-for-hackathon/"
+      href="https://kintone-workshops.github.io/kintone-for-hackathon-slides/"
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >
@@ -114,6 +114,7 @@ hideInToc: true
 
 <toc />
 
+
 ---
 layout: my-two-columns
 title: Hi from Kintone <mdi-hand-wave-outline/>
@@ -143,6 +144,7 @@ title: Hi from Kintone <mdi-hand-wave-outline/>
 * Graduate student of Software Engineering at NJIT
 * Based in Brooklyn, NY
 * Passionate about space and technology.
+
 
 ---
 layout: simple
@@ -384,6 +386,7 @@ title: Kintone Prize Judging Criteria <mdi-court-hammer/>
 * Which Kintone APIs were used?
 * What kind of data was stored in Kintone?
 
+
 ---
 layout: image
 image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
@@ -410,7 +413,7 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
     style="flex: 1; padding-right: 20px; align-items: left;"
   >
     <a
-      href="<https://ahandsel.github.io/kintone-for-hackathon/>"
+      href="<https://kintone-workshops.github.io/kintone-for-hackathon-slides/>"
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >
@@ -435,7 +438,7 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
   </div>
   <div>
     <a
-      href="https://ahandsel.github.io/kintone-for-hackathon/"
+      href="https://kintone-workshops.github.io/kintone-for-hackathon-slides/"
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >

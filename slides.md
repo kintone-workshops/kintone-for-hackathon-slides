@@ -33,7 +33,7 @@ fonts:
 hideInToc: true
 ---
 
-<div class="mb-4 absolute top-15 left-45" style="text-align: right">
+<div class="mb-4 top-15 left-45" style="text-align: right">
   <div class="text-7xl text-white text-opacity-100" style="font-weight: 600">
     Kintone Web Database
   </div>
@@ -413,7 +413,7 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
     style="flex: 1; padding-right: 20px; align-items: left;"
   >
     <a
-      href="<https://kintone-workshops.github.io/kintone-for-hackathon-slides/>"
+      href="https://kintone-workshops.github.io/kintone-for-hackathon-slides/"
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >

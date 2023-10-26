@@ -15,8 +15,9 @@ This series of articles goes over how to set up a React app and Express server t
 ### Workshop Recording
 Full on step-by-step guide on building out a React App using Kintone Web Database as the backend:
 
-* Video: [React & REST API: GET & POST to a Web Database - July Workshop](https://youtu.be/LF2ue7ePgyU)
-* Article + Code: [00_React_Workshop_v2.md](https://gist.github.com/ahandsel/813e642bf36008192708c50a23185935)
+[kintone-workshops/React-x-REST-API-Workshop](https://github.com/kintone-workshops/React-x-REST-API-Workshop)
+
+[React Frontend to a Web Database - Quick Start Guide - YouTube](https://www.youtube.com/watch?v=eibOMNYzyIM)
 
 ## Building a Kintone Customization with React
 

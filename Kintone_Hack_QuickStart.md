@@ -1,10 +1,11 @@
 # Quick Start on Using Kintone Web Database in a Hackathon Project
 
 ## Outline <!-- omit in toc -->
+
 * [3 Reasons to Use Kintone for your hack](#3-reasons-to-use-kintone-for-your-hack)
 * [🚀 Getting your FREE Kintone Database](#-getting-your-free-kintone-database)
   * [1. Fill out the Kintone Developer License Registration form](#1-fill-out-the-kintone-developer-license-registration-form)
-  * [2. Check your email & click `Activate Now`](#2-check-your-email--click-activate-now)
+  * [2. Check your email \& click `Activate Now`](#2-check-your-email--click-activate-now)
 * [💪 Using your Kintone Database](#-using-your-kintone-database)
   * [3. Let's Log into Kintone](#3-lets-log-into-kintone)
   * [4. Create a Kintone Database App](#4-create-a-kintone-database-app)
@@ -15,10 +16,11 @@
   * [Running an easily configurable Space Invaders game on Kintone](#running-an-easily-configurable-space-invaders-game-on-kintone)
   * [Connect IoT Obniz Board to Kintone Web Database all in 10 minutes](#connect-iot-obniz-board-to-kintone-web-database-all-in-10-minutes)
   * [Deploy a REST API calling node.js App to Heroku](#deploy-a-rest-api-calling-nodejs-app-to-heroku)
-  * [React, REST API, & Kintone: GET & POST to a Web Database](#react-rest-api--kintone-get--post-to-a-web-database)
+  * [React, REST API, \& Kintone: GET \& POST to a Web Database](#react-rest-api--kintone-get--post-to-a-web-database)
 * [More Resources](#more-resources)
 
 ## 3 Reasons to Use Kintone for your hack
+
 1. No servers are needed! - Ridiculously fast to build databases!
 1. Effortlessly manage database data and schema with GUI!
 1. Super simple to build JS customizations!
@@ -27,16 +29,19 @@
 
 ### 1. Fill out the Kintone Developer License Registration form
 Head over to the [Developer License Registration Form](https://kintone.dev/en/developer-license-registration-form/#terms-of-service-for-the-developer-license)
+
 * ✅ Accept the Cookies first
 * ✅ Use Chrome & Firefox
 
 When creating your Kintone Subdomain:
+
 * ⚡ Only use lowercase, numbers, & hyphens in your subdomain
 * ⚠ Do not use uppercase or special characters
 
 ### 2. Check your email & click `Activate Now`
 
 After submitting the form, you will get a confirmation email with an `Activate Now` button.
+
 * Email title: `Welcome to Kintone! One More Step to Developer License`
 
 Then you will be redirected to your Kintone Subdomain to set the initial password.
@@ -76,6 +81,7 @@ Check out this guide that goes over creating an example Manga Database App.
 ## How to generate a Kintone API Token?
 
 To generate an API Token for a Kintone App:
+
   1. Go to the Kintone App
   1. Go to the Gear icon ⚙️ (top right corner) > Open the App Settings page
   1. Click on the **App Settings** Tab > Click on **API Token** settings
@@ -147,20 +153,20 @@ This is a recording from Kintone's React workshop series! We go over how to set 
 
 Code & Slides are available at this GitHub Repo:
 
-[ahandsel/React_Workshop_by_Kintone](https://github.com/ahandsel/React_Workshop_by_Kintone)
+[kintone-workshops/React-x-REST-API-Workshop](https://github.com/kintone-workshops/React-x-REST-API-Workshop)
 
-Clone the codebase & follow along with the video to build out the POST functionality!
-If you are stuck, check out the [GET_n_POST branch](https://github.com/ahandsel/React_Workshop_by_Kintone/tree/GET_n_POST) with the completed version!
+[React Frontend to a Web Database - Quick Start Guide - YouTube](https://www.youtube.com/watch?v=eibOMNYzyIM)
+
 
 ---
 
 ## More Resources
 
-| Resource                | Link                                                                                           |
-| ----------------------- | ---------------------------------------------------------------------------------------------- |
-| Get Started Guide       | [kintone.dev/en/quickstart](https://kintone.dev/en/quickstart/)                                |
-| YouTube Channel         | [youtube.com/c/KintoneDeveloperProgram](https://www.youtube.com/c/KintoneDeveloperProgram)     |
-| Kintone Dev Forum       | [forum.kintone.dev](https://forum.kintone.dev/)                                                |
-| Intro to Kintone Slides | [ahandsel.github.io/kintone-for-hackathon/](https://ahandsel.github.io/kintone-for-hackathon/) |
-| Kintone API Docs        | [kintone.dev/en/docs/](https://kintone.dev/en/docs/)                                           |
-| Kintone Tutorials       | [kintone.dev/en/tutorials/](https://kintone.dev/en/tutorials/)                                 |
+| Resource                | Link                                                                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Get Started Guide       | [kintone.dev/en/quickstart](https://kintone.dev/en/quickstart/)                                                                |
+| YouTube Channel         | [youtube.com/c/KintoneDeveloperProgram](https://www.youtube.com/c/KintoneDeveloperProgram)                                     |
+| Kintone Dev Forum       | [forum.kintone.dev](https://forum.kintone.dev/)                                                                                |
+| Intro to Kintone Slides | [kintone-workshops.github.io/kintone-for-hackathon-slides/](https://kintone-workshops.github.io/kintone-for-hackathon-slides/) |
+| Kintone API Docs        | [kintone.dev/en/docs/](https://kintone.dev/en/docs/)                                                                           |
+| Kintone Tutorials       | [kintone.dev/en/tutorials/](https://kintone.dev/en/tutorials/)                                                                 |

@@ -49,7 +49,6 @@ This is a recording from Kintone's React workshop series! We go over how to setu
 
 Code & Slides are available at this GitHub Repo:
 
-[ahandsel/React_Workshop_by_Kintone](https://github.com/ahandsel/React_Workshop_by_Kintone)
+[kintone-workshops/React-x-REST-API-Workshop](https://github.com/kintone-workshops/React-x-REST-API-Workshop)
 
-Clone the codebase & follow along the video to build out the POST functionality!
-If you are stuck, check out the [GET_n_POST branch](https://github.com/ahandsel/React_Workshop_by_Kintone/tree/GET_n_POST) with the completed version!
+[React Frontend to a Web Database - Quick Start Guide - YouTube](https://www.youtube.com/watch?v=eibOMNYzyIM)

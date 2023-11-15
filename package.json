@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /kintone-for-hackathon-slides/",
     "dev": "slidev --open",
     "export": "slidev export --per-slide --format pdf",
     "pdf": "slidev export --per-slide --format pdf",

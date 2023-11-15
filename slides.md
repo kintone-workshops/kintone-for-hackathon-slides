@@ -37,11 +37,11 @@ hideInToc: true
   <div class="text-7xl text-white text-opacity-100" style="font-weight: 600">
     Kintone Web Database
   </div>
-  <div><br /></div>
+  <div><br/></div>
   <div class="text-6xl text-white text-opacity-100" style="font-weight: 600">
-    Your Project's Backend <solar-database-bold />
+    Your Project's Backend <mdi-database-cog/>
   </div>
-  <div><br /><br /></div>
+  <div><br/><br/></div>
   <div
     class="text-2xl text-white text-opacity-100"
     style="font-weight: 600; line-height: 2"
@@ -69,7 +69,7 @@ hideInToc: true
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >
-      Slides <ri:slideshow-line />
+      Slides <ri:slideshow-line/>
     </a>
   </div>
   <div>
@@ -96,7 +96,7 @@ hideInToc: true
     @click="$slidev.nav.next"
     class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center"
   >
-    Press Space for the next page <heroicons-solid-arrow-narrow-right />
+    Press Space for the next page →
   </div>
 </div>
 
@@ -110,9 +110,9 @@ image: ./kintone-graphics/Animal_6_flip.png
 hideInToc: true
 ---
 
-# Table of Contents <mdi-table-of-contents />
+# Table of Contents <mdi-table-of-contents/>
 
-<toc />
+<toc/>
 
 
 ---
@@ -150,7 +150,7 @@ title: Hi from Kintone <mdi-hand-wave-outline/>
 layout: simple
 ---
 
-# Why Use Kintone in My Project? <fluent-emoji-high-contrast-thinking-face />
+# Why Use Kintone in My Project? <fluent-emoji-high-contrast-thinking-face/>
 
 <br>
 <spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Free</spam> - Kintone is entirely free for developers. No credit card is required!
@@ -170,7 +170,7 @@ layout: simple
 layout: my-two-columns
 ---
 
-# Store Your Data in Kintone Web Database <solar-database-bold />
+# Store Your Data in Kintone Web Database <solar-database-bold/>
 
 <br>
 
@@ -205,13 +205,13 @@ layout: my-two-columns
 layout: my-two-columns
 ---
 
-# Traditional vs. Kintone Databases <icons8-idea />
+# Traditional vs. Kintone Databases <icons8-idea/>
 
 <br>
 
 ::left::
 
-## Traditional Databases <bx-sad />
+## Traditional Databases <bx-sad/>
 
 Requires a high-level understanding of databases
 
@@ -223,7 +223,7 @@ Servers need to be constantly running & maintained to be accessed
 
 ::right::
 
-## Kintone Databases <bx-happy />
+## Kintone Databases <bx-happy/>
 
 Databases are created with intuitive drag-&-drop GUI
 
@@ -241,10 +241,10 @@ No servers set up required
 layout: image-right
 image: ./kintone-graphics/Example_SpaceInvaders.gif
 equal: true
-title: Example - Space Invaders <mdi-space-invaders />
+title: Example - Space Invaders <mdi-space-invaders/>
 ---
 
-# Space Invaders <mdi-space-invaders />
+# Space Invaders <mdi-space-invaders/>
 
 Created by [@will_yama](https://twitter.com/will_yama) & [@ahandsel](https://github.com/ahandsel/) - [Article](https://dev.to/will_yama/having-fun-with-phaser-io-games-web-databases-4f08)
 
@@ -259,10 +259,10 @@ High scores can also be stored in Kintone.
 layout: image-right
 image: ./kintone-graphics/Example_Samurai.gif
 equal: true
-title: Example - IoT Samurai Swords <tabler-slice />
+title: Example - IoT Samurai Swords <tabler-slice/>
 ---
 
-# IoT Samurai Swords <tabler-slice />
+# IoT Samurai Swords <tabler-slice/>
 Created by [@RyBB](https://github.com/RyBB) - [Article](https://dev.to/will_yama/kintone-at-maker-faire-tokyo-2020-215k)
 
 Users are challenged to slice their enemies as quickly as possible with a samurai sword!
@@ -275,10 +275,10 @@ Users are challenged to slice their enemies as quickly as possible with a samura
 ---
 layout: image-right-bar
 image: ./kintone-graphics/Example_flowerpot-bar.gif
-title: Example - Hibotan / Flowerpot Project <mdi-robot-outline />
+title: Example - Hibotan / Flowerpot Project <mdi-robot-outline/>
 ---
 
-# Hibotan / Flowerpot Project <mdi-robot-outline />
+# Hibotan / Flowerpot Project <mdi-robot-outline/>
 Created by [Nobuyuki Furukawa](https://protopedia.net/prototyper/nobuyukifurukawa) - [ヒボたん](https://peraichi.com/landing_pages/view/hibotan)
 
 * A moving flowerpot that uses **Kintone as the backend** to store sensor data.
@@ -298,10 +298,10 @@ Created by [Nobuyuki Furukawa](https://protopedia.net/prototyper/nobuyukifurukaw
 layout: image-right
 equal: true
 image: ./kintone-graphics/Kintone_New.png
-title: Get your Kintone <mdi-server />
+title: Get your Kintone <mdi-server/>
 ---
 
-# Get your free Kintone Web Database <mdi-server />
+# Get your free Kintone Web Database <mdi-server/>
 
 ## Go to [Kintone.dev/new](https://Kintone.dev/new)!
 
@@ -328,21 +328,21 @@ image: ./kintone-graphics/Animal_3.png
 
 Here are some resources to help you use Kintone as your project's database!
 
-| <mdi-bookshelf />              | [kintone.dev](https://kintone.dev/)                                          | Read API Docs & Tutorials |
+| <mdi-bookshelf/>              | [kintone.dev](https://kintone.dev/)                                          | Read API Docs & Tutorials |
 | ------------------------------ | ---------------------------------------------------------------------------- | ------------------------- |
-| <mdi-lifebuoy />               | [forum.kintone.dev](https://forum.kintone.dev/)                              | Post Questions            |
-| <mdi-youtube />                | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials           |
-| <mdi-human-greeting-variant /> | Ask Kintone mentors                                                          | Office Hours & Discord    |
+| <mdi-lifebuoy/>               | [forum.kintone.dev](https://forum.kintone.dev/)                              | Post Questions            |
+| <mdi-youtube/>                | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials           |
+| <mdi-human-greeting-variant/> | Ask Kintone mentors                                                          | Office Hours & Discord    |
 
 
 ---
 layout: image-left-bar
 image: ./kintone-graphics/Animal_10.png
-title: Kintone Prize <mdi-trophy-variant />
+title: Kintone Prize <mdi-trophy-variant/>
 ---
 
 <div class="text-5xl text-primary dark:text-lightest top-1" style="font-weight:500;user-select:text;" >
-  Kintone Prizes <mdi-trophy-variant />
+  Kintone Prizes <mdi-trophy-variant/>
 </div>
 
 <br>
@@ -356,7 +356,7 @@ All winning team members will get a [20W Dual Port USB-C & USB-A Charger](https:
 #### Every Kintone User - Swag
 All teams that used Kintone in their project will get swag!
 
-# <material-symbols-water-bottle /> <mdi-tennis-ball /> <mdi-pen /> <mingcute-hat-2-fill /> <mdi-tag /> <mdi-usb /> <mdi-battery-charging-high />
+# <material-symbols-water-bottle/> <mdi-tennis-ball/> <mdi-pen/> <mingcute-hat-2-fill/> <mdi-tag/> <mdi-usb/> <mdi-battery-charging-high/>
 
 <!--
 * We will be giving out prizes to the top 2 teams that use Kintone in their project!
@@ -394,7 +394,7 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
 
 <div class="mb-4" style="text-align: center;">
   <div class="text-7xl text-primary text-opacity-100" style="font-weight: 600; align-items: center; text-align: center;">
-    Any Questions <mdi-help-circle-outline />
+    Any Questions <mdi-help-circle-outline/>
   </div>
 </div>
 
@@ -417,7 +417,7 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
       target="_blank"
       alt="kintone-for-hackathon Slide Deck"
     >
-      Slides <ri:slideshow-line />
+      Slides <ri-slideshow-line/>
     </a>
   </div>
 </div>
